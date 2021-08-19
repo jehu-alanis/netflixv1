@@ -3,6 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+npm install axios
+npm install firebase
+npm install react-router dom 
+npm install react-uuid
+npm install styled-components
 
 ### `npm start`
 
